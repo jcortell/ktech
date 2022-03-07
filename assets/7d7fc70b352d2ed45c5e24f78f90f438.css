@@ -6108,6 +6108,21 @@ b {
     display: block;
     pointer-events: none; }
 
+.brz .brz-shopify-quantity {
+  width: 20%;
+  line-height: 1.8; }
+  .brz .brz-shopify-quantity > .brz-input {
+    outline: none;
+    letter-spacing: inherit;
+    font-weight: inherit;
+    color: inherit;
+    border: none;
+    background-color: inherit;
+    text-align: center;
+    border-radius: inherit;
+    width: 100%;
+    line-height: inherit; }
+
 .brz .brz-reset-psw {
   width: 100%; }
   .brz .brz-reset-psw .brz-input {
